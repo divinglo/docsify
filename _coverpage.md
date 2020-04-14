@@ -2,7 +2,7 @@
 
 # cosyfish
 
-> A programmer.
+>让努力变成一种习惯.
 
 
 [GitHub](https://github.com/divinglo)
